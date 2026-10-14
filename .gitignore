@@ -4,3 +4,6 @@
 # Python cache
 __pycache__/
 *.py[cod]
+
+# CIFAR-10 dataset
+CNN/data/
